@@ -1,5 +1,9 @@
 #ML-servo
 
+Reinforcement learning for model-free automated temperature control
+Based on https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
+
+
 USAGE
 `python -i DAC_out.py`
 * runtime parameters specified at end of 'DAC_out.py' file and may be modified there
